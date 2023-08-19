@@ -17,5 +17,5 @@ def time_Conversion(time):
     else:
         return str(int(time[:2]) + 12) + time[2:8]
     
-time = input()
+time = input("Enter the time:")
 print(time_Conversion(time))
