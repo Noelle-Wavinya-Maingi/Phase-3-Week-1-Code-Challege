@@ -17,11 +17,14 @@ def positive_Values(x, y, z):
     else:
         return False
 
+try:
 #read the three numbers from the user
-x = int(input("Enter your first number: "))
-y = int(input("Enter your second number: "))
-z = int(input("Enter your third number: "))
-
+    x = int(input("Enter your first number: "))
+    y = int(input("Enter your second number: "))
+    z = int(input("Enter your third number: "))
+except ValueError:
+    print("Please enter a valid number!")
+else:
 #calls the function positive_Values to check if exactly two numbers are positive and prints the results
-result = positive_Values(x,y,z)
-print("Results:", result)
+    result = positive_Values(x,y,z)
+    print("Results:", result)
