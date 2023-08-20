@@ -75,10 +75,10 @@ git@github.com:Noelle-Wavinya-Maingi/Phase-3-Week-1-Code-Challege.git
      python3 Challenge_Two.py 
      ```
 
-      - For Challenge 3:  Run: 
-      ```sh
-       python3 Challenge_Three.py 
-       ```
+     - For Challenge 3:  Run:
+     ```sh 
+     python3 Challenge_Three.py 
+     ```
 
 5. Follow the prompts and input the required values.
 
