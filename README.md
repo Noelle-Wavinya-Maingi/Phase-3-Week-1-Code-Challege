@@ -62,11 +62,11 @@ Ensure that you have Python3 installed on your machine to run the solutions
 3. Navigate to the directory containing the repository.
 
 4. Choose the challenge you want to run:
-    - For Challenge 1:  Run ```ssh python3 Challenge_One.py ```
+    - For Challenge 1:  Run:```sh python3 Challenge_One.py ```
 
-     - For Challenge 2:  Run ```ssh python3 Challenge_Two.py ```
+     - For Challenge 2:  Run ```sh python3 Challenge_Two.py ```
 
-      - For Challenge 3:  Run ```ssh python3 Challenge_Three.py ```
+      - For Challenge 3:  Run ```sh python3 Challenge_Three.py ```
 
 5. Follow the prompts and input the required values.
 
