@@ -56,17 +56,29 @@ To run the solution, execute the Python script "Challenge_Three.py". The script 
 Ensure that you have Python3 installed on your machine to run the solutions
 
 1. Clone this repository to your local machine.
+```sh
+git@github.com:Noelle-Wavinya-Maingi/Phase-3-Week-1-Code-Challege.git
+```
 
 2. Open a terminal or command prompt.
 
 3. Navigate to the directory containing the repository.
 
 4. Choose the challenge you want to run:
-    - For Challenge 1:  Run:```sh python3 Challenge_One.py ```
+    - For Challenge 1:  Run:
+    ```sh 
+    python3 Challenge_One.py 
+    ```
 
-     - For Challenge 2:  Run ```sh python3 Challenge_Two.py ```
+     - For Challenge 2:  Run:
+     ```sh 
+     python3 Challenge_Two.py 
+     ```
 
-      - For Challenge 3:  Run ```sh python3 Challenge_Three.py ```
+      - For Challenge 3:  Run: 
+      ```sh
+       python3 Challenge_Three.py 
+       ```
 
 5. Follow the prompts and input the required values.
 
