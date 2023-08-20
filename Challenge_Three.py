@@ -33,7 +33,7 @@ while True:
     if input_string.isalpha():
         break
     else:
-        print("Your input must be a string without special characters or spaces")
+        print("Enter a valid input that does not have special characters")
 
 
 # call the function to calculate and print the highest value of consonant substrings
